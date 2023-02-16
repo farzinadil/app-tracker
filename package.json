@@ -1,0 +1,25 @@
+{
+  "name": "email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farzinadil/app-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farzinadil/app-tracker/issues"
+  },
+  "homepage": "https://github.com/farzinadil/app-tracker#readme",
+  "dependencies": {
+    "imap": "^0.8.19",
+    "install": "^0.13.0",
+    "mailparser": "^3.6.3",
+    "npm": "^9.5.0"
+  }
+}
