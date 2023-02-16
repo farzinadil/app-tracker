@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/farzinadil/app-tracker#readme",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "imap": "^0.8.19",
     "install": "^0.13.0",
     "mailparser": "^3.6.3",
